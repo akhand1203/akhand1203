@@ -43,10 +43,10 @@
 
 ## 🎓 Education
 
-🏫 **B.Tech in Computer Science Engineering**
+🏫 **B.Tech in Computer Science Engineering** -
 Ajay Kumar Garg Engineering College, Ghaziabad
 
-🏫 **Higher Secondary Education**
+🏫 **Higher Secondary Education** -
 Rahul Int Pub School, Chandauli, UP
 
 ---
