@@ -1,16 +1,83 @@
-## Hi there 👋
+# 👋 Hi there, I'm Akhand Pratap Singh 🚀
 
-<!--
-**akhand1203/akhand1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😄 I am a :
+💻 Full-Stack Web Developer (MERN Stack)
+☕ Java & DSA enthusiast
+⚙️ CS Undergrad building scalable, real-world applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Working On
+
+🚗 Building **Rath** → An Uber/Ola-style ride-sharing app with real-time location tracking, live ride matching & socket-based communication
+
+---
+
+## ⚡ What I Work With
+
+**Languages**
+- Java, JavaScript, Python (Basic), HTML/CSS, SQL
+
+**Frontend**
+- React.js, Tailwind CSS
+
+**Backend**
+- Node.js, Express.js, RESTful API Design
+
+**Databases**
+- MongoDB (Mongoose), MySQL, PostgreSQL (Basic)
+
+**Auth & Security**
+- JWT, Role-Based Access Control (RBAC), bcrypt
+
+**Developer Tools**
+- Git & GitHub, VS Code, Postman
+
+**Core CS**
+- Data Structures & Algorithms, OOP, DBMS, OS, Computer Networks
+
+---
+
+## 🚀 Projects
+
+| Project | Stack | Description |
+|---|---|---|
+| 🚗 **Rath** | React, Node.js, Express, MongoDB, Socket.IO, Mapbox GL | Uber/Ola-style ride-sharing app with real-time ride matching, live location tracking & OTP-based boarding |
+| 💼 **JobHunt** | React, Node.js, Express, MongoDB, JWT | Job portal with ATS-based resume scoring, keyword matching, HR & Student role-based portals |
+
+---
+
+## 🎓 Education
+
+🏫 **B.Tech in Computer Science Engineering**
+Ajay Kumar Garg Engineering College, Ghaziabad — 2023–2027
+
+🏫 **Higher Secondary Education**
+Rahul Int Pub School, Chandauli, UP — 2021
+
+---
+
+## 🧠 Currently Learning
+
+- Advanced DSA (for competitive programming & interviews)
+- System Design fundamentals
+- Real-time systems with WebSockets
+
+---
+
+## 📊 GitHub Stats
+
+![Akhand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhand1203&show_icons=true&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhand1203&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/akhand1203)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/akhand1203)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:akhand1203@gmail.com)
+
+---
+
+*"Build things. Break things. Learn everything."*
