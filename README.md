@@ -7,12 +7,6 @@
 
 ---
 
-## 🌱 Currently Working On
-
-🚗 Building **Rath** → An Uber/Ola-style ride-sharing app with real-time location tracking, live ride matching & socket-based communication
-
----
-
 ## ⚡ What I Work With
 
 **Languages**
@@ -62,13 +56,6 @@ Rahul Int Pub School, Chandauli, UP — 2021
 - Advanced DSA (for competitive programming & interviews)
 - System Design fundamentals
 - Real-time systems with WebSockets
-
----
-
-## 📊 GitHub Stats
-
-![Akhand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhand1203&show_icons=true&theme=github_dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhand1203&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
