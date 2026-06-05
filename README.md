@@ -44,10 +44,10 @@
 ## 🎓 Education
 
 🏫 **B.Tech in Computer Science Engineering**
-Ajay Kumar Garg Engineering College, Ghaziabad — 2023–2027
+Ajay Kumar Garg Engineering College, Ghaziabad
 
 🏫 **Higher Secondary Education**
-Rahul Int Pub School, Chandauli, UP — 2021
+Rahul Int Pub School, Chandauli, UP
 
 ---
 
