@@ -28,7 +28,7 @@
 - Git & GitHub, VS Code, Postman
 
 **Core CS**
-- Data Structures & Algorithms, OOP, DBMS, OS, Computer Networks
+- Data Structures & Algorithms, OOPS, DBMS, OS, Computer Networks
 
 ---
 
