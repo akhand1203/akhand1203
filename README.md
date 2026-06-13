@@ -10,7 +10,7 @@
 ## ⚡ What I Work With
 
 **Languages**
-- Java, JavaScript, Python (Basic), HTML/CSS, SQL
+- Java, JavaScript, HTML/CSS, SQL
 
 **Frontend**
 - React.js, Tailwind CSS
