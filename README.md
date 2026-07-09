@@ -139,9 +139,6 @@ Currently solving **DSA & Competitive Programming in Java** while building produ
 <img src="https://img.shields.io/badge/GitHub-akhand1203-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="tel:+919554425583">
-<img src="https://img.shields.io/badge/Phone-%2B91%209554425583-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-</a>
 
 </p>
 
