@@ -75,6 +75,46 @@ Currently solving **DSA & Competitive Programming in Java** while building produ
 
 # 🚀 Featured Projects
 
+## 🛡️ PacketGuard – Deep Packet Inspection System
+
+> Java-based, multi-threaded DPI system that analyzes PCAP traffic, identifies applications via TLS SNI, and applies configurable blocking rules with a web dashboard.
+
+| Category | Details |
+|----------|---------|
+| Stack | Java, Multi-threading, Concurrency, Maven, PCAP, HTML, CSS, JavaScript |
+| Architecture | Producer/Consumer, Load Balancer, Fast Path Processors, Rule Engine |
+
+### Highlights
+
+- Parsed raw **Ethernet, IPv4, TCP and UDP** headers from PCAP files.
+- Tracked network flows using **five-tuple** (SrcIP, DstIP, SrcPort, DstPort, Protocol).
+- Identified **14+ applications** (YouTube, Instagram, Spotify, Discord, Zoom, etc.) via **TLS SNI** inspection.
+- Designed a **multi-threaded architecture** with Load Balancers and concurrent Fast Path processors.
+- Built a **Rule Engine** supporting application, IP, domain and port-based filtering.
+- Generated filtered output PCAP files with detailed **packet, application and filtering statistics**.
+
+---
+
+## 🤖 Naulej – AI Powered Job Portal
+
+> Full Stack AI-powered job portal with ATS resume scoring.
+
+| Category | Details |
+|----------|---------|
+| Stack | React, Node.js, Express.js, MongoDB, Redux Toolkit, OpenAI, AWS S3, Razorpay |
+| Features | ATS Resume Scoring, Recruiter Dashboard, Applicant Dashboard, Premium Plans |
+
+### Highlights
+
+- Designed **11 backend route modules**.
+- Integrated OpenAI-powered ATS Resume Scoring.
+- Used AWS S3 Presigned URLs for secure uploads.
+- Implemented JWT + Google OAuth authentication.
+- Integrated Razorpay with signature verification.
+- Built protected role-based dashboards.
+
+---
+
 ## 🚗 Rath – Real-Time Ride Sharing Application
 
 > Production-grade ride-sharing platform with real-time tracking, dual-role authentication and live map rendering.
@@ -92,26 +132,6 @@ Currently solving **DSA & Competitive Programming in Java** while building produ
 - Optimized Mapbox rendering to achieve **sub-2 second** updates.
 - Eliminated race conditions with idempotent ride acceptance.
 - Fixed production issues involving JWT expiry, CORS and Socket transport.
-
----
-
-## 🤖 JobHunt – AI Powered Job Portal
-
-> Full Stack AI-powered job portal with ATS resume scoring.
-
-| Category | Details |
-|----------|---------|
-| Stack | React, Node.js, Express.js, MongoDB, Redux Toolkit, OpenAI, AWS S3, Razorpay |
-| Features | ATS Resume Scoring, Recruiter Dashboard, Applicant Dashboard, Premium Plans |
-
-### Highlights
-
-- Designed **11 backend route modules**.
-- Integrated OpenAI-powered ATS Resume Scoring.
-- Used AWS S3 Presigned URLs for secure uploads.
-- Implemented JWT + Google OAuth authentication.
-- Integrated Razorpay with signature verification.
-- Built protected role-based dashboards.
 
 ---
 
