@@ -1,154 +1,97 @@
----
+Profile GIF
+Hey, I'm Akhand 👋
+LinkedIn Twitter Instagram Email
 
-# 👤 About Me
 
-🎓 **B.Tech CSE (AI/ML)** Student at **Ajay Kumar Garg Engineering College, Ghaziabad** (AKTU, 2023–2027)
 
-I build **production-grade software systems** with a strong focus on **scalable architecture, real-time systems, AI-powered applications, networking, clean code, and developer experience**.
+Profile Views
 
-Currently solving **DSA & Competitive Programming in Java** while building applications using the **MERN Stack, Java, AI/ML, and modern cloud technologies**.
 
----
 
-# 🛠 Tech Stack
+Typing SVG
+🧑‍💻 About Me
+class Akhand:    def __init__(self):        self.name = "Akhand"        self.role = "Full Stack Developer"        self.location = "India"        self.languages_spoken = ["Hindi", "English"]        def get_current_focus(self):        return ["Web Development", "Open Source", "Cloud Computing"]        def get_fun_fact(self):        return "I code with music on 🎵"
+🔭 Currently working on personal projects & open source
+🌱 Currently learning Advanced System Design & Cloud
+💬 Ask me about Web Dev, Git, Python, JavaScript
+⚡ Fun fact: I love automating boring stuff
+🛠️ Tech Stack
+<div align="center">
 
-## Languages
+🖥️ Languages
+Python
+JavaScript
+TypeScript
+Java
+C++
+HTML5
+CSS3
 
-- Java
-- JavaScript
-- TypeScript
-- HTML
-- CSS
+<br />
 
-## Frontend
+🧰 Frameworks & Libraries
+React
+Next.js
+Node.js
+Express.js
+Tailwind CSS
+Bootstrap
+Django
 
-- React
-- React 19
-- Vite
-- Redux Toolkit
-- GSAP
-- Mapbox GL
+<br />
 
-## Backend
+🗄️ Databases & Tools
+MongoDB
+MySQL
+PostgreSQL
+Git
+Docker
+Linux
+VS Code
 
-- Node.js
-- Express.js
-- Socket.IO
-- REST APIs
-- Java
-- Maven
+</div>
 
-## Database
+📊 GitHub Analytics
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akhand1203&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E85B7&icon_color=6E85B7&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhand1203&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E85B7&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+</div>
 
-- MongoDB
-- MongoDB Atlas
+<br />
 
-## Authentication
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=akhand1203&theme=tokyonight&hide_border=true&background=0D1117&ring=6E85B7&fire=FF6B35&currStreakLabel=6E85B7&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak" />
+</div>
 
-- JWT
-- Clerk
-- Google OAuth
+<br />
 
-## Cloud & AI
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=akhand1203&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophies" />
+</div>
 
-- OpenAI
-- Google Gemini
-- AWS S3
-- Razorpay
-- Vercel
-- Render
+🐍 Contribution Snake
+<div align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/akhand1203/akhand1203/blob/output/github-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/akhand1203/akhand1203/blob/output/github-snake.svg" />
+<img alt="github-snake" src="https://github.com/akhand1203/akhand1203/blob/output/github-snake-dark.svg" />
+</picture>
+</div>
 
-## Networking & Systems
+📈 Contribution Graph
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akhand1203&bg_color=0D1117&color=6E85B7&line=6E85B7&point=FF6B35&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+</div>
 
-- Deep Packet Inspection
-- PCAP Processing
-- TCP/IP
-- TLS/SNI
-- Multi-threading
-- Load Balancing
-- Network Traffic Analysis
+<div align="center">
 
-## Tools
+✨ Quote of the Day
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 
-- Git
-- GitHub
-- Maven
-- VS Code
-- Postman
-- Docker
+<br /><br />
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6E85B7&height=100&section=footer&width=100%" alt="Footer" />
 
-# 🚀 Featured Projects
-
-## 🛡️ PacketGuard – Deep Packet Inspection Engine
-
-> Multi-threaded Java-based Deep Packet Inspection system for PCAP analysis, application detection, and network traffic filtering.
-
-| Category | Details |
-| -------- | ------- |
-| **Stack** | Java 17+, Maven, TCP/IP, PCAP, TLS/SNI, Multi-threading, HTML, CSS, JavaScript |
-| **Repository** | [GitHub](https://github.com/akhand1203/packetguard-dpi) |
-
-### Highlights
-
-- **What:** Built a Java-based **Deep Packet Inspection engine** that analyzes PCAP traffic, tracks network flows, identifies applications, and generates filtered PCAP output.
-- **How:** Implemented **Ethernet/IPv4/TCP/UDP parsing, five-tuple connection tracking, TLS/SNI inspection, Load Balancers, Fast Path processors, thread-safe queues, and configurable filtering rules**.
-- **What:** Added application-aware filtering for applications such as **YouTube, Instagram, Spotify, TikTok, and Telegram**, along with IP, domain, and port-based rules.
-- **Why:** Designed the system as a **scalable multi-threaded network processing pipeline** to improve packet-processing efficiency while providing detailed traffic and blocking statistics.
-- **Impact:** Added a web dashboard to visualize **packet statistics, application classification, forwarding/dropped packets, and blocking results** in a cleaner interface.
-
----
-
-## 🤖 Naulej – AI Powered Job Portal
-
-> Full-stack AI-powered job portal with ATS resume scoring, recruiter workflows, applicant management, and premium plans.
-
-| Category | Details |
-| -------- | ------- |
-| **Stack** | React, Node.js, Express.js, MongoDB, Redux Toolkit, OpenAI, AWS S3, Razorpay |
-| **Features** | ATS Resume Scoring, Recruiter Dashboard, Applicant Dashboard, Premium Plans |
-
-### Highlights
-
-- **What:** Built a full-stack **AI-powered job portal** connecting recruiters and applicants through dedicated role-based dashboards and recruitment workflows.
-- **How:** Designed **11 backend route modules** with React, Node.js, Express.js, MongoDB, and Redux Toolkit for structured job, application, recruiter, and applicant management.
-- **What:** Integrated **OpenAI-powered ATS resume scoring** to evaluate resumes against job requirements and provide automated candidate insights.
-- **How:** Implemented **JWT + Google OAuth authentication, AWS S3 Presigned URLs, and Razorpay signature verification** for secure authentication, file handling, and payments.
-- **Why:** Created an end-to-end recruitment platform that combines **AI-assisted candidate evaluation, secure document management, and premium hiring features** into a single application.
-
----
-
-## 🚗 Rath – Real-Time Ride Sharing Application
-
-> Production-grade ride-sharing platform with real-time ride matching, dual-role authentication, live location tracking, and map rendering.
-
-| Category | Details |
-| -------- | ------- |
-| **Stack** | React 19, Node.js, Express.js, MongoDB, Socket.IO, Mapbox GL, JWT, Clerk, GSAP |
-| **Deployment** | Vercel, Render, MongoDB Atlas |
-
-### Highlights
-
-- **What:** Built a real-time **ride-sharing platform** connecting Riders and Captains with ride requests, acceptance, live tracking, and map-based navigation.
-- **How:** Developed **16+ REST APIs** across User, Captain, Ride, and Map modules using React, Node.js, Express.js, MongoDB, and Mapbox GL.
-- **How:** Implemented **Socket.IO real-time communication** for captain dispatch and ride updates, reducing captain dispatch latency by approximately **40%**.
-- **What:** Engineered **JWT + Clerk authentication** with separate Rider and Captain workflows and implemented idempotent ride acceptance to prevent race conditions.
-- **Why:** Designed the system around **real-time communication and scalable ride-state management**, while resolving production issues involving **JWT expiry, CORS, and Socket transport**.
-
----
-
-# 🎓 Education
-
-| Institution | Degree | Duration |
-| ----------- | ------ | -------- |
-| Ajay Kumar Garg Engineering College | B.Tech CSE (AI/ML) | 2023 – 2027 |
-
----
-
-# 📫 Connect With Me
-
-- GitHub: [@akhand1203](https://github.com/akhand1203)
-- PacketGuard: [packetguard-dpi](https://github.com/akhand1203/packetguard-dpi)
-
----
+</div>
+```
