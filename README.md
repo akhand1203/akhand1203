@@ -95,7 +95,7 @@ Currently solving **DSA & Competitive Programming in Java** while building produ
 
 ---
 
-## 🤖 JobHunt – AI Powered Job Portal
+## 🤖 Naulej – AI Powered Job Portal
 
 > Full Stack AI-powered job portal with ATS resume scoring.
 
